@@ -1,0 +1,11 @@
+# VSCode
+.vscode/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.html
+*.pdf
+*.py
+
+# Mac
+.DS_Store
